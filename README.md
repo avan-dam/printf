@@ -14,8 +14,11 @@ Constraints are as follows:
 **Usage:**
 
 To run the program type the following in terminal
-![Screenshot 2021-07-01 at 11 43 23](https://user-images.githubusercontent.com/61982496/124103507-a29fda00-da61-11eb-9fd5-b0aef58e8225.png)
-
+```
+git clone https://github.com/avan-dam/printf.git
+cd printf
+make
+```
 **Testing:**
 
 I have created a simple main for testing as follows
