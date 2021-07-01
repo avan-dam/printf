@@ -5,12 +5,12 @@
 /*                                                     +:+                    */
 /*   By: avan-dam <avan-dam@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/01/27 12:12:53 by avan-dam       #+#    #+#                */
-/*   Updated: 2020/02/03 14:50:14 by avan-dam      ########   odam.nl         */
+/*   Created: 2020/01/27 12:12:53 by avan-dam      #+#    #+#                 */
+/*   Updated: 2021/07/01 11:27:58 by ambervandam   ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "printf_header.h"
+#include "printf.h"
 
 void	ft_putnbr(long n, t_sto *s1)
 {

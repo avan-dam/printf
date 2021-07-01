@@ -1,17 +1,17 @@
 /* ************************************************************************** */
 /*                                                                            */
 /*                                                        ::::::::            */
-/*   printf_header.h                                    :+:    :+:            */
+/*   printf.h                                           :+:    :+:            */
 /*                                                     +:+                    */
 /*   By: avan-dam <avan-dam@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/02/03 14:07:36 by avan-dam       #+#    #+#                */
-/*   Updated: 2020/02/03 15:14:09 by avan-dam      ########   odam.nl         */
+/*   Created: 2020/02/03 14:07:36 by avan-dam      #+#    #+#                 */
+/*   Updated: 2021/07/01 11:27:48 by ambervandam   ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#ifndef PRINTF_HEADER_H
-# define PRINTF_HEADER_H
+#ifndef PRINTF_H
+# define PRINTF_H
 # include <stdarg.h>
 # include <unistd.h>
 

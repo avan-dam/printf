@@ -5,12 +5,12 @@
 /*                                                     +:+                    */
 /*   By: avan-dam <avan-dam@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/01/24 16:26:39 by avan-dam       #+#    #+#                */
-/*   Updated: 2020/01/31 16:43:25 by avan-dam      ########   odam.nl         */
+/*   Created: 2020/01/24 16:26:39 by avan-dam      #+#    #+#                 */
+/*   Updated: 2021/07/01 11:27:55 by ambervandam   ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "printf_header.h"
+#include "printf.h"
 
 int		ft_find_length(const char *s, int i, int dot, t_sto *s1)
 {

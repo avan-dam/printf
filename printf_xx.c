@@ -5,12 +5,12 @@
 /*                                                     +:+                    */
 /*   By: avan-dam <avan-dam@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/01/31 16:45:17 by avan-dam       #+#    #+#                */
-/*   Updated: 2020/02/03 14:33:08 by avan-dam      ########   odam.nl         */
+/*   Created: 2020/01/31 16:45:17 by avan-dam      #+#    #+#                 */
+/*   Updated: 2021/07/01 11:28:09 by ambervandam   ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "printf_header.h"
+#include "printf.h"
 
 void	ft_puthx(long int i, int result, t_sto *s1)
 {

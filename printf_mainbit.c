@@ -5,12 +5,12 @@
 /*                                                     +:+                    */
 /*   By: avan-dam <avan-dam@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/01/17 16:24:48 by avan-dam       #+#    #+#                */
-/*   Updated: 2020/02/03 15:18:28 by avan-dam      ########   odam.nl         */
+/*   Created: 2020/01/17 16:24:48 by avan-dam      #+#    #+#                 */
+/*   Updated: 2021/07/01 11:28:01 by ambervandam   ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "printf_header.h"
+#include "printf.h"
 
 void	ft_check_dot(const char *s, int i, t_sto *s1)
 {

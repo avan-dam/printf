@@ -5,12 +5,12 @@
 /*                                                     +:+                    */
 /*   By: avan-dam <avan-dam@student.codam.nl>         +#+                     */
 /*                                                   +#+                      */
-/*   Created: 2020/01/27 13:05:35 by avan-dam       #+#    #+#                */
-/*   Updated: 2020/02/03 14:03:55 by avan-dam      ########   odam.nl         */
+/*   Created: 2020/01/27 13:05:35 by avan-dam      #+#    #+#                 */
+/*   Updated: 2021/07/01 11:28:05 by ambervandam   ########   odam.nl         */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "printf_header.h"
+#include "printf.h"
 
 void	ft_putpad(int i, char c, int length, t_sto *s1)
 {
